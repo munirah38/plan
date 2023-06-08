@@ -1,0 +1,41 @@
+body{
+    background-image: url('./bck\ solar.jpg');
+}
+
+.sun{
+    width: 10%;
+    height: 10vh;
+    border: 2px thin solid ;
+    border-style: hidden;
+    margin-left: 50px;
+    padding: 10px ;
+    display: flex;
+    background-color: transparent;
+    
+    
+   
+}
+.mecury{
+
+}
+.mars{
+
+}
+.neptune{
+
+}
+.jupiter{
+
+}
+.saturn{
+
+}
+.uranus{
+
+}
+.earth{
+
+}
+.venus{
+
+}
